@@ -1,0 +1,24 @@
+# Node
+client/node_modules/
+server/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+ai_engine/notebooks/
+.ipynb_checkpoints/
+
+# Outputs (IMPORTANT)
+server/outputs/
+server/uploads/
+ai_engine/assets/outputs/
+ai_engine/assets/cache/
+ai_engine/assets/logs/
+
+# TripoSR embedded repo
+ai_engine/app/TripoSR/.git/
+
+# Env
+.env
