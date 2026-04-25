@@ -15,12 +15,15 @@ The system integrates a web-based frontend, backend API, and an AI engine for 3D
 ---
 
 ## Visuals
-
-![alt text](assets/image.png)
+<p align="center">
+  <img src="assets/image.png" alt="Flow Diagram" width="700">
+</p>
 
 ## INPUT
 
-![alt text](assets/car-1.png)
+<p align="center">
+  <img src="assets/car-1.png" width="500"/>
+</p>
 
 ### Concept Image (ControlNet Output)
 <p align="center">
@@ -29,7 +32,9 @@ The system integrates a web-based frontend, backend API, and an AI engine for 3D
 
 ### Generated Output ( Inside the STL viewer)
 
-![alt text](assets/finoutput.png)
+<p align="center">
+  <img src="assets/finoutput.png" alt="Flow Diagram" width="700">
+</p>
 
 ---
 
